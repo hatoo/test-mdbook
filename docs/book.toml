@@ -1,0 +1,5 @@
+[book]
+authors = ["hatoo"]
+multilingual = false
+src = "src"
+title = "Test mdbook"
